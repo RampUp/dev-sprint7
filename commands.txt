@@ -61,15 +61,15 @@ array.inject(0) do |sum, e|
   sum += e
   sum
 end
-=> fill_in_what_irb_returns_here
+=> 6
 
 array
-=> fill_in_what_irb_returns_here
+=> [1,2,3]
 
 array.reject do |e|
   e > 2
 end
-=> 6
+=> [1, 2]
 
 array
 => [1, 2, 3]
