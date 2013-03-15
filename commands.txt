@@ -31,7 +31,7 @@ array
 Bang makes a permanent change to the object. In this case the array [3,1,2] gets over written by the array [1,2,3]
 
 puts "Hello Ruby"
-=> nil
+=> Hello Ruby
 
 array = [1,2,3,4]
 => [1, 2, 3, 4] 
